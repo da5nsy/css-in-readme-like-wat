@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -17,10 +17,35 @@
 
 
 			</style>
+			
 			<div class="grid-container">
+			
 				<div class="grid-item">
-					<a href="https://github.com/Aakash-Raj-2001"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-Aakash-Raj-2001" title="Translation">🌍</a></td>
+					<a href="http://dannygarside.co.uk"><img src="https://avatars3.githubusercontent.com/u/3739866?v=4?s=100" width="100px;"/><br /><sub><b>Danny Garside</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Ada5nsy" title="Bug reports">🐛</a> 
 				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+				<div class="grid-item">
+					<a href="https://github.com/da5nsy"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-da5nsy" title="Translation">🌍</a>
+				</div>
+
 			</div>
+		</div>
 	</foreignObject>
 </svg>
