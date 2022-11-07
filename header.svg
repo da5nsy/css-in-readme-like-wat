@@ -17,10 +17,6 @@
 
 
 			</style>
-			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-			</div>
 			<div class="grid-container">
 				<div class="grid-item">
 					<a href="https://github.com/Aakash-Raj-2001"><img src="https://avatars.githubusercontent.com/u/79682170?v=4?s=100" width="100px;" alt="Aakash Raj"/><br /><sub><b>Aakash Raj</b></sub></a><br /><a href="#translation-Aakash-Raj-2001" title="Translation">🌍</a></td>
