@@ -9,6 +9,13 @@
 				  overflow-y: visible;
 				  grid-template-columns: repeat(auto-fit, 100px);
 				}
+				.grid-container div {
+				  border: 1px solid gray;
+				  height: 400px;
+				  overflow-y: auto;
+				  scrollbar-gutter: stable;
+				  box-sizing: content-box;
+				}
 				.grid-item {
 				  border: 1px solid rgba(0, 0, 0, 0.8);
 				  font-size: 30px;
