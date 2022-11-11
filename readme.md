@@ -1,5 +1,4 @@
-
-<img src="header.svg" width="800" style="overflow: visible">
+<img src="header.svg">
 
 
 What happens if I add text after?
