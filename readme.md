@@ -1,4 +1,3 @@
-<div overflow="visible">
-	<img src="header.svg" width="800">
-</div>
+<img src="header.svg" width="800">
+
 What happens if I add text after?
