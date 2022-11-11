@@ -1,4 +1,4 @@
-<img src="header.svg" width="800">
+![](header.svg)
 
 
 What happens if I add text after?
