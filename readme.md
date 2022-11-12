@@ -1,3 +1,3 @@
-<img src="header.svg" width="800">
+<img src="header.svg" width="800" height="400">
 
-What happens if I add text after?
+Lorem ipsum.
