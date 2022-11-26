@@ -1,3 +1,3 @@
-<img src="header.svg" width="800" height="300">
+<img src="header.svg">
 
 Lorem ipsum.
