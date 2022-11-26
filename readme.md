@@ -1,3 +1,3 @@
-<a href="header.svg"><img src="header.svg?width=890&button=false" /></a>
+<img src="header.svg" width="800" height="300">
 
 Lorem ipsum.
